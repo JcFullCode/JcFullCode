@@ -1,5 +1,5 @@
 <!-- GitHub views -->
-<img align="left" src="https://komarev.com/ghpvc/?username=your-github-username&color=blue" alt="Profile counter badge" />
+<img align="left" src="https://komarev.com/ghpvc/?username=JcFullCode&color=blue" alt="Profile counter badge" />
 # Hello I'm👋,  Jailen Cardona
 
 **Desarrollador de software en formación** con enfoque en **arquitectura clara**, **código mantenible** y **entrega de valor**. Actualmente estudio **Ingeniería de Software** y me especializo en **POO** con **Java** como base para construir soluciones **robustas y escalables**. Mi objetivo profesional es **liderar proyectos** que transformen procesos y generen impacto real.
