@@ -8,6 +8,9 @@
   <img src="./Banner Linkedin Profesional Sencillo Gris y Marrón.jpg" width=""1500px/>
 </div>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Story+Script&pause=1000&width=435&lines=My+name+is+Jailen+Cardona;I+am+a+Software+Analysis+and+Development+student;at+Oracle+Next+Education+-+Alura)](https://git.io/typing-svg)
+
+
 **Desarrollador de software en formación** con enfoque en **arquitectura clara**, **código mantenible** y **entrega de valor**. Actualmente estudio **Ingeniería de Software** y me especializo en **POO** con **Java** como base para construir soluciones **robustas y escalables**. Mi objetivo profesional es **liderar proyectos** que transformen procesos y generen impacto real.
 
 **Lo que aporto en un equipo**  
