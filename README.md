@@ -28,8 +28,8 @@
 
 - 😄 Pronouns: 🔥 `JcFullCode`
 
-## 📊 My Skills
 
+## 🛠️ My Skills - Languages and Tools
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,java,idea,ai,vscode&perline=4)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
@@ -38,6 +38,16 @@
 
 [![My Skills](https://skillicons.dev/icons?i=postgres,oracle)](https://skillicons.dev)
 
+
+##  💓 Let´s get connected:
+
+
+## 📊 GitHub Stat
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rusty-sj&hide=TeX&layout=compact)
+
+## About Me - Softskills Spanish
 **Desarrollador de software en formación** con enfoque en **arquitectura clara**, **código mantenible** y **entrega de valor**. Actualmente estudio **Ingeniería de Software** y me especializo en **POO** con **Java** como base para construir soluciones **robustas y escalables**. Mi objetivo profesional es **liderar proyectos** que transformen procesos y generen impacto real.
 
 **Lo que aporto en un equipo**  
