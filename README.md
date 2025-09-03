@@ -10,9 +10,26 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Story+Script&pause=1000&width=435&lines=My+name+is+Jailen+Cardona;I+am+a+Software+Analysis+and+Development+student;at+Oracle+Next+Education+-+Alura)](https://git.io/typing-svg)
 
-<img src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" align="right" width="500px"/>
+## 👱🏼‍♂️ About me
+
+<img src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" align="right" width="450px"/>
+
+- 🔭 I’m currently working on Bimbo
+
+- 🌱 I’m currently learning Programming Logic
+
+- 👯 I’m looking to collaborate on Business Proyects
+
+- 🤔 I’m looking for help to start as a Junior
+
+- 💬 Ask me about my projects
+ 
+- 📫 How to reach me: Connect with me
+
+- 😄 Pronouns: JcFullCode
 
 
+## 
 
 **Desarrollador de software en formación** con enfoque en **arquitectura clara**, **código mantenible** y **entrega de valor**. Actualmente estudio **Ingeniería de Software** y me especializo en **POO** con **Java** como base para construir soluciones **robustas y escalables**. Mi objetivo profesional es **liderar proyectos** que transformen procesos y generen impacto real.
 
