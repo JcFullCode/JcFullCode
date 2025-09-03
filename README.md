@@ -30,6 +30,8 @@
 
 
 ## 🛠️ My Skills - Languages and Tools
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
+
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,java,idea,ai,vscode&perline=4)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
